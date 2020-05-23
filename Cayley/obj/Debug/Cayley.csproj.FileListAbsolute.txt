@@ -1,0 +1,9 @@
+C:\Users\UPiracy\source\repos\Cayley\Cayley\bin\Debug\Cayley.exe.config
+C:\Users\UPiracy\source\repos\Cayley\Cayley\bin\Debug\Cayley.exe
+C:\Users\UPiracy\source\repos\Cayley\Cayley\bin\Debug\Cayley.pdb
+C:\Users\UPiracy\source\repos\Cayley\Cayley\obj\Debug\Cayley.csprojAssemblyReference.cache
+C:\Users\UPiracy\source\repos\Cayley\Cayley\obj\Debug\Cayley.Draw.resources
+C:\Users\UPiracy\source\repos\Cayley\Cayley\obj\Debug\Cayley.Properties.Resources.resources
+C:\Users\UPiracy\source\repos\Cayley\Cayley\obj\Debug\Cayley.csproj.GenerateResource.cache
+C:\Users\UPiracy\source\repos\Cayley\Cayley\obj\Debug\Cayley.exe
+C:\Users\UPiracy\source\repos\Cayley\Cayley\obj\Debug\Cayley.pdb
